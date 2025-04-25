@@ -1,6 +1,6 @@
 # Hello, I'm Sultan Seytbekov 👋
 
-I'm a **Java Developer** and a **4th-year Information Systems student** at **Suleyman Demirel University**, Almaty, Kazakhstan. I’m passionate about learning new technologies and working on projects that solve real-world problems. My main focus is on **Java development**, **backend services**, and **database management**.
+I'm a **Java Developer** and a **4th-year Information Systems student** at **SDU University**, Almaty, Kazakhstan. I’m passionate about learning new technologies and working on projects that solve real-world problems. My main focus is on **Java development**, **backend services**, and **database management**.
 
 > "Code is like humor. When you have to explain it, it’s bad." – Cory House
 
